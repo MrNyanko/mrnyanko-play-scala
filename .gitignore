@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+/project/target/
+/target/
+/.idea/
+/mrnyanko-common/target/
+/mrnyanko-model/target/
+/mrnyanko-play-scala.iml
+/mrnyanko-web/target/
